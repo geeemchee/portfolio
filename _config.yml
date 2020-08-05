@@ -52,7 +52,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Portfolio
+  - title:             Example
     url:               /example/
   - title:             Documentation
     url:               /docs/
