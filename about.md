@@ -77,7 +77,7 @@ Relevant links - [Merlabot-Github]
 [Classo-Github]: github.com/classo
 [Annibot-Telegram]: https://t.me/Annivbot
 [Annibot-Github]: https://github.com/geeemchee/annibot2
-[Merlabot]: https://github.com/doinghun/merlabot-public
+[Merlabot-Github]: https://github.com/doinghun/merlabot-public
 
 [features]: #features
 [news]: #build-an-audience
