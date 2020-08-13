@@ -9,33 +9,31 @@ redirect_from:
   - /download/
 ---
 
-# About
+# Portfolio
 
 <!--author-->
 
-## Hydejack
+## Classo(in-progress)
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+Scheduling application for private schools with multiple courses and teachers.  
 {:.lead}
 
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](assets/img/blog/classo-wireframe.png){:.lead width="1920" height="1080" loading="lazy"}
 
-Hydejack's cover page on a variety of screens.
+Classo's wireframe 
 {:.figcaption}
 
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+**Classo** is built with JavaScript and TypeScript using redux and saga framework. Classo API is built with Express.js and hosted on Firebase. 
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
+Relevant links - [Classo-Application], [Classo-Github]
 {:.lead}
 
 
-## A Personal Site That Won't Disappear
+## Annibot
 
 **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
@@ -148,6 +146,10 @@ Use the the form below to purchase Hydejack PRO:
 [download]: https://hydejack.com/download/
 [welcome]: https://hydejack.com/
 [forms]: https://hydejack.com/forms-by-example/
+[Classo-Application]: https://classo.com
+[Classo-Github]: github.com/classo
+[Annibot]: https://t.me/Annivbot
+[Merlabot]: https://github.com/doinghun/merlabot-public
 
 [features]: #features
 [news]: #build-an-audience
