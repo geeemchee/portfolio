@@ -35,7 +35,21 @@ Relevant links - [Classo-Application], [Classo-Github]
 
 ## Annibot
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+Telegram Chatbot to remind users one week before anniversary 
+{:.lead}
+
+![Screenshot](assets/img/blog/annibot-wireframe0.png){:.lead width="1920" height="1080" loading="lazy"}
+Add Anniversary to get reminded
+{:.figcaption}
+
+![Screenshot](assets/img/blog/annibot-wireframe1.png){:.lead width="1920" height="1080" loading="lazy"}
+Edit and delete anniversary with /edit and /delete command
+{:.figcaption}
+
+Relevant links - [Annibot-Telegram], [Annibot-Github]
+{:.lead}
+
+**Merlabot** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
 
@@ -148,7 +162,8 @@ Use the the form below to purchase Hydejack PRO:
 [forms]: https://hydejack.com/forms-by-example/
 [Classo-Application]: https://classo.com
 [Classo-Github]: github.com/classo
-[Annibot]: https://t.me/Annivbot
+[Annibot-Telegram]: https://t.me/Annivbot
+[Annibot-Github]: https://github.com/geeemchee/annibot2
 [Merlabot]: https://github.com/doinghun/merlabot-public
 
 [features]: #features

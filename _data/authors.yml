@@ -9,7 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Here are the applications that I have built with JS/TS. 
-    
+
     Used Redux and Saga for React Apps and Express.JS for Node.JS Apps
 
 
@@ -18,8 +18,6 @@ author1:
     path:            https://daehankorean.com/wp-content/uploads/2020/08/maskable_icon.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
