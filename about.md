@@ -18,22 +18,22 @@ redirect_from:
 
 
 ## Work Experience
-**Daehan Korean Education Centre**
+**Daehan Korean Education Centre**{:.heading.flip-title}
 {:.lead}
 * Title: Project Coordinator
 * Period: April 2020 ~ Now
 
-**KodySEA**
+**KodySEA**{:.heading.flip-title}
 {:.lead}
 * Title: Co-Founder
 * Period: April 2019 ~ April 2020
 
-**Stargram Global**
+**Stargram Global**{:.heading.flip-title}
 {:.lead}
 * Title: Country Manager
 * Period: Jan 2018 ~ Dec 2018
 
-**Keep**
+**Keep**{:.heading.flip-title}
 {:.lead}
 * Title: Co-Founder
 * Period: Oct 2017 ~ Now
