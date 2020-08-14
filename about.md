@@ -27,7 +27,7 @@ Classo's wireframe
 {:.figcaption}
 
 
-**Classo** is built with JavaScript and TypeScript using redux and saga framework. Classo API is built with Express.js and hosted on Firebase. 
+**Classo** is built with TypeScript using redux and saga framework. Classo API is built with Express.js and hosted on Firebase. 
 
 Relevant links - [Classo-Application], [Classo-Github]
 {:.lead}
