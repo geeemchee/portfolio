@@ -10,6 +10,7 @@ redirect_from:
 ---
 
 ## About
+<!--author-->
 
 ## Education
 * **National University of Singapore**{:.heading.flip-title} Bachelor's of Mechanical Engineering 2014~2018
@@ -17,7 +18,7 @@ redirect_from:
 
 
 ## Work Experience
-[Basics]{:.heading.flip-title} --- How to add different types of content.
+* [Basics]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
 * [Build]{:.heading.flip-title} --- How to build the static files for deployment.

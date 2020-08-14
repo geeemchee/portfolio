@@ -7,9 +7,6 @@ hide_description: true
 sitemap: false
 ---
 
-# Portfolio
-
-<!--author-->
 
 ## Classo(in-progress)
 
