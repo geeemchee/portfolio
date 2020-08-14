@@ -19,7 +19,7 @@ Scheduling application for private schools with multiple courses and teachers.
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](./assets/img/blog/classo-wireframe.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](../assets/img/blog/classo-wireframe.png){:.lead width="1920" height="1080" loading="lazy"}
 
 Classo's wireframe 
 {:.figcaption}
@@ -36,11 +36,11 @@ Relevant links - [Classo-Application]{:.heading.flip-title}, [Classo-Github]{:.h
 Telegram Chatbot to remind users one week before anniversary 
 {:.lead}
 
-![Screenshot](./assets/img/blog/annibot-wireframe0.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](../assets/img/blog/annibot-wireframe0.png){:.lead width="1920" height="1080" loading="lazy"}
 Add Anniversary to get reminded
 {:.figcaption}
 
-![Screenshot](./assets/img/blog/annibot-wireframe1.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](../assets/img/blog/annibot-wireframe1.png){:.lead width="1920" height="1080" loading="lazy"}
 Edit and delete anniversary with /edit and /delete command
 {:.figcaption}
 
@@ -54,7 +54,7 @@ Relevant links - [Annibot-Telegram]{:.heading.flip-title}, [Annibot-Github]{:.he
 Facebook Chatbot for Korean travellers and residents in Singapore
 {:.lead}
 
-![Screenshot](./assets/img/blog/merlabot-wireframe.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](../assets/img/blog/merlabot-wireframe.png){:.lead width="1920" height="1080" loading="lazy"}
 Give most recent information and news from Singapore
 {:.figcaption}
 

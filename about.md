@@ -9,6 +9,8 @@ redirect_from:
   - /download/
 ---
 
+## About
+
 ## Education
 * **National University of Singapore**{:.heading.flip-title} Bachelor's of Mechanical Engineering 2014~2018
 {:.lead}
@@ -21,6 +23,7 @@ redirect_from:
 * [Build]{:.heading.flip-title} --- How to build the static files for deployment.
 * [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
 {:.related-posts.faded}
+* **
 
 ## Other
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
