@@ -33,7 +33,7 @@ redirect_from:
 * Title: Country Manager
 * Period: Jan 2018 ~ Dec 2018
 
-**Keep**{:.heading.flip-title}
+Keep{:.heading.flip-title}
 {:.lead}
 * Title: Co-Founder
 * Period: Oct 2017 ~ Now
