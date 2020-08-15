@@ -18,7 +18,7 @@ redirect_from:
 
 
 ## Work Experience
-**Daehan Korean Education Centre**
+**Daehan Korean Language Centre**
 {:.lead}
 * Title: Project Coordinator
 * Period: April 2020 ~ Now
