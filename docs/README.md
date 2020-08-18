@@ -16,6 +16,7 @@ Scheduling application for private schools with multiple courses and teachers.
 1. this list will be replaced by the toc
 {:toc .large-only}
 
+{% include youtube_embed.html %}
 ![Screenshot](../assets/img/blog/classo-wireframe.png){:.lead width="1920" height="1080" loading="lazy"}
 
 Classo's wireframe 
