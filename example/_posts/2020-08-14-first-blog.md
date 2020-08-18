@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Blogpost Coming Soon
+title: Classo Workflow Explained
 image: 
 description: >
-  Blogpost Coming Soon
+  Here is how me and my teammates are working together on Classo, a scheduling app for online classes.
 hide_description: true
 sitemap: false
 ---
 
-Blogpost Coming Soon
-{:.lead}
+{% include youtube_embed.html %}
