@@ -20,7 +20,7 @@ redirect_from:
 ## Work Experience
 **Daehan Korean Language Centre**
 {:.lead}
-* Title: Project Coordinator
+* Title: Project Co-ordinator
 * Period: April 2020 ~ Now
 
 **KodySEA**
