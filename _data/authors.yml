@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Here are the applications that I have built with JS/TS. 
-
-    Used Redux and Saga for React Apps and Express.JS for Node.JS Apps
+    In this website, I have listed the projects that I am working on recently.
+    Developing has been my recent passion and I created several apps using Redux and Node.js framework.
+    I am comfortable with React, Redux, Node.js and PostgreSQL, and adapt to using cloud services like Heroku, Firebase, AWS RDS, EC2.
 
 
   # This photo will be used in the about section
