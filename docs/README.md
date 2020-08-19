@@ -23,7 +23,7 @@ Classo's wireframe
 {:.figcaption}
 
 
-**Classo** is built with TypeScript using redux and saga framework. Classo API is built in a docker container as an image. Uses Express.js and tested with Jest framework 
+**Classo** is built with TypeScript using redux and saga framework. Classo API is built in a docker container as an image. Uses Express.js and tested with Jest framework.
 
 <!--Relevant links - [Classo-Application]{:.heading.flip-title}, [Classo-Github]{:.heading.flip-title}
 {:.lead}-->
